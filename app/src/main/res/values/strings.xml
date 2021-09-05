@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Genesis_Aug_Sep</string>
+    <string-array name="countries">
+        <item>India</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>USA</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
